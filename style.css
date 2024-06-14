@@ -1,0 +1,42 @@
+.p1 {color: blueviolet;}
+.p2 {color: blue;}
+.p3 {color: cadetblue;}
+.p4 {color: crimson;}
+
+.p1 {border-color: blue;
+    border-width: 6px;
+    border-style: double;}
+
+.p2 {border-color: darkorchid;
+    border-width: 6px;
+    border-style: double; }
+
+.p3 {border-color: darkorange;
+    border-width: 6px;
+    border-style: double;}
+
+.p4 {border-color:fuchsia;
+    border-width: 6px;
+    border-style: double ; }
+
+.p1 {margin-left: 0%;
+    padding-left: 37%;
+    padding-top: 2%;}
+
+    .p2 {margin-left: 55%;
+        padding-left: 15%;
+        padding-top: 3%;}
+
+.p3 {margin-right: 70%;
+    padding-right: 15%;
+    padding-top: 2%;}
+
+    .p4 {margin-left: 40%;
+        padding-left: 20%;
+        padding-top: 2%;}
+
+        .p1 {background-color: rgb(144, 189, 189);}
+        .p2 {background-color: rgb(95, 240, 156);}
+        .p3 {background-color: rgb(215, 195, 226);}
+        .p4 {background-color: rgb(253, 255, 138);}
+body {background-color: rgb(209, 150, 150);}
